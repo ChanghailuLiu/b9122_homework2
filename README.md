@@ -14,7 +14,7 @@
   https://press.un.org/en/2023/sgsm21806.doc.htm  
   https://press.un.org/en/2023/dsgsm1848.doc.htm   
   https://press.un.org/en/2023/sgsm21765.doc.htm  
-- q1_2.py implements task 2 in Q2: crawl the press room of the European Parliament and extract at least 10 press releases that cover the plenary sessions and contain the word “crisis”.  
+- q1_2.py implements task 2 in Q1: crawl the press room of the European Parliament and extract at least 10 press releases that cover the plenary sessions and contain the word “crisis”.  
   The result is:  
   https://www.europarl.europa.eu/news/en/press-room  
   https://www.europarl.europa.eu/news/en/press-room/20230929IPR06130/parliament-argues-for-a-top-up-to-multi-annual-budget-for-crisis-response  
