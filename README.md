@@ -1,6 +1,7 @@
 # b9122_homework2
 ## Author: Changhailu Liu
 ## Description:
+- webcrawler.py is the code covered in class.
 - q1_1.py implements task 1 in Q1: extract at least 10 United Nations press releases containing the word “crisis”.  
   The result is:  
   https://press.un.org/en/2023/sgsm21959.doc.htm  
