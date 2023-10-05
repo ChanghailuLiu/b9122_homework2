@@ -1,8 +1,8 @@
 # b9122_homework2
 ## Author: Changhailu Liu
 ## Description:
-- q1_1.py implements the task 1 in Q1: extract at least 10 United Nations press releases containing the word “crisis”.
-  The result is:
+- q1_1.py implements task 1 in Q1: extract at least 10 United Nations press releases containing the word “crisis”.  
+  The result is:  
   https://press.un.org/en/2023/sgsm21959.doc.htm  
   https://press.un.org/en/2023/sgsm21947.doc.htm  
   https://press.un.org/en/2023/dsgsm1874.doc.htm  
@@ -13,8 +13,8 @@
   https://press.un.org/en/2023/sgsm21806.doc.htm  
   https://press.un.org/en/2023/dsgsm1848.doc.htm   
   https://press.un.org/en/2023/sgsm21765.doc.htm  
-- q1_2.py implements the task 2 in Q2: crawl the press room of the European Parliament and extract at least 10 press releases that cover the plenary sessions and contain the word “crisis”.  
-  The result is:
+- q1_2.py implements task 2 in Q2: crawl the press room of the European Parliament and extract at least 10 press releases that cover the plenary sessions and contain the word “crisis”.  
+  The result is:  
   https://www.europarl.europa.eu/news/en/press-room  
   https://www.europarl.europa.eu/news/en/press-room/20230929IPR06130/parliament-argues-for-a-top-up-to-multi-annual-budget-for-crisis-response  
   https://www.europarl.europa.eu/news/en/press-room/20210604IPR05513/biodiversity-meps-demand-binding-targets-to-protect-wildlife-and-people  
